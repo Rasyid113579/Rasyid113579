@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**Rasyid113579/Rasyid113579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rasyid Alim Aulia** — a Frontend Website Developer and Data Processing Specialist passionate about building scalable web applications and intelligent systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Informatics Graduate from **Universitas Multimedia Nusantara**
+- 💻 **Frontend Website** Developer Enthusiast
+- 📊 Currently working in Recruitment **Data Processing & System Development** at PT Pertamina
+- 🏗 Experienced in developing recruitment platforms & internal productivity tools
+
+---
+
+### 📈 What I’m Currently Working On
+- Recruitment System Optimization
+- Automation for HR & Procurement Processes
+- Improving Data Processing Pipelines with Python
+- Scaling Web Applications with Clean Architecture
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: https://id.linkedin.com/in/rasyid-alim-aulia-494a15281
